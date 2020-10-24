@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+ ## This is a simple chat application 
+ 
+ ### Developed using 
+ 1. React js & Redux
+ 2. Material UI
+ 3. Firebase firestore
+ 
+ Hosted on firebase : https://imessage-clone-1e1ef.web.app/
 
 ## Available Scripts
 
